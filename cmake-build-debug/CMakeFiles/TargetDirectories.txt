@@ -1,3 +1,4 @@
-/Users/polishchowchow/Documents/projects/orm_for_mysql/cmake-build-debug/CMakeFiles/orm_for_mysql.dir
+/Users/polishchowchow/Documents/projects/orm_for_mysql/cmake-build-debug/CMakeFiles/orm_for_mysql_lib.dir
+/Users/polishchowchow/Documents/projects/orm_for_mysql/cmake-build-debug/CMakeFiles/orm_for_mysql_exec.dir
 /Users/polishchowchow/Documents/projects/orm_for_mysql/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/polishchowchow/Documents/projects/orm_for_mysql/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,6 +1,0 @@
-#ifndef ORM_FOR_MYSQL_LIBRARY_H
-#define ORM_FOR_MYSQL_LIBRARY_H
-
-void hello();
-
-#endif //ORM_FOR_MYSQL_LIBRARY_H
